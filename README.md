@@ -11,7 +11,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,scikitlearn,r,html,css,js,typescript,mysql,postgresql,github,vscode,docker,gcp" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,pytorch,scikitlearn,r,html,css,js,typescript,angular,mysql,postgresql,github,vscode,docker,gcp" /> <br /><br />
 
 # My Traning Skill
 
