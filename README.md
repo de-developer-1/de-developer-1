@@ -1,4 +1,3 @@
-#  Hi there!
 ## Data Management & AI Engineer in Japan👋
 
 #
